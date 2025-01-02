@@ -1,3 +1,5 @@
-#Virtual Environment
+# Virtual Environment
 /venv
 
+# Data
+data/case_data.csv
